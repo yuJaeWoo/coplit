@@ -19,24 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82235735-0e7c-4f12-b273-7cb566ccbf83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01_sumTo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_isOdd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_factorial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_fibonacci.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_arrSum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_arrProduct.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_arrLength.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_drop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_take.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_and.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_or.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_reverseArr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_findMatryoshka.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_unpackGiftbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_flattenArr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithm_Basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_Basic/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="82235735-0e7c-4f12-b273-7cb566ccbf83" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605662004329</updated>
-      <workItem from="1605662006259" duration="2570000" />
+      <workItem from="1605662006259" duration="2594000" />
     </task>
     <servers />
   </component>
