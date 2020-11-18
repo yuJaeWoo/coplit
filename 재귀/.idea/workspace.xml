@@ -19,7 +19,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3c1bbcc-8a5a-47d2-950c-c129b87cbcfd" name="Default Changelist" comment="" />
+    <list default="true" id="82235735-0e7c-4f12-b273-7cb566ccbf83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01_sumTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_isOdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_factorial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_fibonacci.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_arrSum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_arrProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_arrLength.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_drop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_take.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_and.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_or.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_reverseArr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_findMatryoshka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_unpackGiftbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_flattenArr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm_Basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_Basic/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,8 +52,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1kHMvWbMPoMGm3lx9aR3Q6FYfyl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1kRSe6C2wPTopKyEdzsBKdgJkLw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,14 +75,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a3c1bbcc-8a5a-47d2-950c-c129b87cbcfd" name="Default Changelist" comment="" />
-      <created>1605353296210</created>
+      <changelist id="82235735-0e7c-4f12-b273-7cb566ccbf83" name="Default Changelist" comment="" />
+      <created>1605662004329</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605353296210</updated>
-      <workItem from="1605353298122" duration="41000" />
-      <workItem from="1605436134492" duration="396000" />
-      <workItem from="1605617905467" duration="156000" />
+      <updated>1605662004329</updated>
+      <workItem from="1605662006259" duration="2570000" />
     </task>
     <servers />
   </component>
@@ -80,6 +97,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
